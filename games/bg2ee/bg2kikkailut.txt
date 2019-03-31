@@ -1,0 +1,59 @@
+BG:EE NPC list:
+
+Tanks: 
+- Keldorn
+
+Thieves:
+- Imoen
+- Nalia
+- Yoshimo
+- Jan
+
+Healers:
+- Aerie
+- Jaheira
+- Anomen
+- Viconia
+
+Mages:
+- Asmodeus
+- Imoen
+- Nalia
+- Aerie
+- Jan
+
+Other:
+- Minsc
+
+Party:
+Asmodeus
+ - scimitar
+	- Belm: City Gate District -> Trademeet -> Druid Grove -> Ogre's Tower
+	- Rashad's Talon: City Gate District -> Trademeet -> Mayor's house -> Guildmistress Busya
+	- Kachiko's Wakizashi: Slums -> Copper Coronet -> Joluv
+ - katana
+	- Celestial Fury (Katana +3): Temple District -> The Guarded Compound
+	- Dakkon's Zerth Blade: Adventurer's Mart -> Deidre
+Keldorn
+ - Temple District -> Sewers
+ - two-handed swords
+	- Carsomyr: Slums -> Copper Coronet -> Firkraag -> Windspear Hills
+Minsc
+ - From start
+ - two-handed swords
+	- Lilarcor: Slums -> Copper Coronet -> Hendak -> Slums -> Sewers
+ - axes
+Aerie
+ - Waukeen's Promenade -> Circus
+Anomen
+ - Slums -> Copper Coronet
+Imoen
+ - Spellhold
+ - korvaava: Jan
+	- Government District
+
+1. Jan
+2. Anomen (dumppaa Jaheira)
+3. Aerie
+4. Keldorn
+5. Trademeet (scimitars)
